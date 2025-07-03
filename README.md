@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+Developer+in+Making...;Loving+Python%2C+DL%2C+and+DSA+🐍;Building%20Models%20⚙️%20Deploying%20with%20DevOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=AI+Developer+in+Making...;Loving+Python%2C+DL%2C+and+DSA+%F0%9F%90%8D;Building+models+%E2%9A%99%EF%B8%8F+Deploying+with+DevOps" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,6 +13,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
