@@ -4,8 +4,9 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Developer+in+Making...;Loving+Python%2C+DL%2C+and+DSA+🐍;Building+Models+⚙️+Deploying+with+DevOps" alt="Sheikh Mursalin Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+Developer+in+Making...;Loving+Python%2C+DL%2C+and+DSA+🐍;Building%20Models%20⚙️%20Deploying%20with%20DevOps" alt="Typing SVG" />
 </p>
+
 
 
 ---
