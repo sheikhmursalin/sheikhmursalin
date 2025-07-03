@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=AI+Developer+in+Making...;Loving+Python%2C+DL%2C+and+DSA+%F0%9F%90%8D;Build+models+%E2%9A%99%EF%B8%8F+Deploy+with+DevOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Developer+in+Making...;Loving+Python%2C+DL%2C+and+DSA+🐍;Building+Models+⚙️+Deploying+with+DevOps" alt="Typing animation" />
 </p>
 
 ---
