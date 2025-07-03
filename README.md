@@ -3,9 +3,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/demo/?size=18&center=true&vCenter=true&lines=AI+Devloper+in+Making...;Loving+Python%2C+DL%2C+and+DSA+%F0%9F%90%8D;Building+Models+%E2%9A%99%EF%B8%8F+Deploy+with+DevOps" alt="Typing SVG" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=435&lines=AI+Devloper+in+Making...;Loving+Python%2C+DL%2C+and+DSA+%F0%9F%90%8D;Building+Models+%E2%9A%99%EF%B8%8F+Deploy+with+DevOps" alt="Typing SVG" /></a>
 
 
 ---
